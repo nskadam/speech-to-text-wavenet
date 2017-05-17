@@ -33,6 +33,7 @@ Current Version : __***0.0.0.2***__
 1. [pandas](http://pandas.pydata.org/pandas-docs/stable/install.html) >= 0.19.2
 1. [librosa](https://github.com/librosa/librosa) == 0.5.0
 1. [scikits.audiolab](https://pypi.python.org/pypi/scikits.audiolab)==0.11.0
+* install ffmpeg as well
 
 If you have problems with the librosa library, try to install ffmpeg by the following command. ( Ubuntu 14.04 )  
 <pre><code>
